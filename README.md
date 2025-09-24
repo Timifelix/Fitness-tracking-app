@@ -825,10 +825,3 @@ class HistoryScreen extends StatelessWidget {
 Hinweis: diese single-file-Version ist bewusst pragmatisch gehalten, um schnellen Test zu ermöglichen. Für Produktion empfehle ich modulare Struktur (Modelle, DB, Provider in separaten Dateien) und Tests.
 
 ---
-
-Wenn du möchtest, ergänze ich jetzt **(ohne weitere Fragen)** sofort eines der folgenden Erweiterungen direkt im Projekt:
-1. Firebase Cloud Sync + Auth (Google Sign-In)
-2. CSV/JSON Export & Import (Backup)
-3. Dark Mode + einfache Grafik (Gewichtsverlauf pro Übung)
-
-Antworte kurz mit 1, 2 oder 3 — ich implementiere die gewählte Erweiterung sofort.
